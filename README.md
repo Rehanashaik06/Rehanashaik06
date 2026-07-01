@@ -48,12 +48,15 @@ I believe in continuous learning, solving real-world challenges through technolo
 
 # 🌱 Currently Learning
 
-- MERN Stack
-- Machine Learning
-- Cloud Computing
-- UiPath RPA
-- System Design
-- Data Structures & Algorithms
+# 🎯 Current Focus
+
+- 🌐 Full Stack Web Development
+- 🤖 Artificial Intelligence Concepts
+- 🧠 Machine Learning & Deep Learning
+- 📊 Product Management
+- 🔄 Robotic Process Automation (UiPath)
+- 🚀 Building Real-World Projects
+- 🌍 Open Source Contributions
 
 ---
 
