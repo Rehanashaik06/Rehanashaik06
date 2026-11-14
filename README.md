@@ -1,14 +1,14 @@
-<div align="center">
+ <div align="center">
 
-<img src="./Assets/hero-glass.svg" width="100%" alt="Shaik Rehana - GitHub profile" />
+<img src="./Assets/hero-glass.svg" width="100%" alt="Shaik Rehana - GitHub Profile" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=850&lines=Microsoft+Learn+Student+Ambassador;Full+Stack+Intern+at+Brillon+AI;Computer+Science+%7C+Data+Science;Building+meaningful+products+with+technology" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=850&lines=Microsoft+Learn+Student+Ambassador;Full+Stack+Intern+at+Brillon+AI;Computer+Science+%7C+Data+Science;Exploring+AI%2C+ML+%26+Product+Management" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/shaikrehana6">
     <img src="https://img.shields.io/badge/LinkedIn-Shaik%20Rehana-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/rehana__shaik06?psln=MXJhdzJncjY5em81OQ==">
+  <a href="https://www.instagram.com/rehana__shaik06">
     <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:rehanashaik767@gmail.com">
@@ -25,26 +25,31 @@
 
 ## 👩‍💻 About Me
 
-Hey there! I'm **Shaik Rehana**, a Computer Science and Engineering student specializing in Data Science at **RGM College of Engineering and Technology (RGMCET)**.
+Hey there! I'm **Shaik Rehana**, a Computer Science and Engineering student specializing in **Data Science** at **RGM College of Engineering and Technology (RGMCET)**.
 
 - 💼 Currently working as a **Full Stack Intern at Brillon AI**.
-- 🌐 **Microsoft Learn Student Ambassador (MLSA)**.
+- 🌐 Proud **Microsoft Learn Student Ambassador (MLSA)**.
 - 📚 Lead of **JIGNASA – The Learning Club**.
-- 💡 Interested in Artificial Intelligence, Machine Learning, Full Stack Development, and Product Management.
-- 🚀 Passionate about learning new technologies and building practical solutions.
-- 🤝 Love collaborating with people, exploring ideas, and turning concepts into real-world projects.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 💡 Passionate about Product Management, innovation and technology.
+- 💻 Exploring Full Stack Development and building practical applications.
+- 🤝 Enjoy collaborating, sharing knowledge and learning from the tech community.
+
+I believe in continuously learning, experimenting with ideas and building technology that solves real-world problems.
 
 ---
 
-## 🚀 Currently Building
+## 🚀 Currently Building & Learning
 
-<img align="right" src="./Assets/working.webp" width="300" alt="Working animation" />
+<img align="right" src="./Assets/working.webp" width="280" alt="Working animation" />
 
-- Developing full-stack applications.
-- Exploring AI-powered solutions and intelligent systems.
-- Improving backend development and database management skills.
-- Practicing problem-solving and Data Structures & Algorithms.
-- Learning through projects, internships, and technical communities.
+- Building and improving full-stack applications.
+- Exploring AI-powered applications and intelligent solutions.
+- Strengthening Java and Python programming skills.
+- Improving backend development and database management.
+- Practicing Data Structures and Algorithms.
+- Exploring product thinking, user needs and problem-solving.
+- Learning through internships and developer communities.
 
 <br clear="right"/>
 
@@ -55,101 +60,116 @@ Hey there! I'm **Shaik Rehana**, a Computer Science and Engineering student spec
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Programming Languages" />
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,react,nodejs,express,streamlit" />
+  <img src="https://skillicons.dev/icons?i=flask,react,nodejs,express,streamlit" alt="Frameworks and Libraries" />
 </p>
 
-### Databases & Tools
+### Databases & Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,postman" alt="Databases and Tools" />
 </p>
 
 ### Areas of Interest
 
 <p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Development-1572B6?style=for-the-badge&logo=web&logoColor=white" />
-  <img src="https://img.shields.io/badge/Product%20Management-FF6F00?style=for-the-badge&logo=producthunt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Data%20Science-1572B6?style=for-the-badge" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-0A66C2?style=for-the-badge" alt="Full Stack Development" />
+  <img src="https://img.shields.io/badge/Product%20Management-FF6F00?style=for-the-badge" alt="Product Management" />
 </p>
 
 ---
 
-## 🌟 Project Spotlights
+## 🌟 Featured Projects
 
 ### 1. Examination Management System
 
 A web-based examination management application designed to simplify online examination workflows.
 
+**Key Features**
 - User authentication and role-based access.
 - Student and administrator functionality.
 - Exam creation and management.
-- Exam attempts and submission workflows.
-- Backend developed using Python Flask and SQLite.
+- Question management and exam attempts.
+- Result generation and management.
 
 **Tech Stack:** Python, Flask, SQLite, HTML, CSS, JavaScript.
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/Rehanashaik06/examination-management-system)
+<a href="https://github.com/Rehanashaik06/examination-management-system">
+  <img src="https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github" alt="View Examination Management System" />
+</a>
 
 ### 2. Waste Track – Smart Waste AI
 
-An AI-powered waste classification application that helps identify waste categories through image classification.
+An AI-powered waste classification application designed to identify waste categories through image classification.
 
+**Key Features**
 - Upload images for waste classification.
-- Displays predicted waste categories and confidence scores.
+- Predicts waste categories.
+- Displays prediction confidence.
 - Maintains classification history.
-- Uses a Streamlit interface.
+- Interactive Streamlit interface.
 
-**Tech Stack:** Python, Streamlit, Machine Learning, SQLite, Pillow.
+**Tech Stack:** Python, Streamlit, Machine Learning, SQLite.
 
 ### 3. Booking Management Backend API
 
-A Paytm-inspired backend application that provides REST APIs for managing bookings.
+A Paytm-inspired backend application providing REST APIs for booking management.
 
-- Create, retrieve, update, and delete bookings.
+**Key Features**
+- Create, retrieve, update and delete bookings.
 - REST API architecture.
-- Express.js backend.
 - JSON-based request and response handling.
+- Backend API deployment.
 
-**Tech Stack:** Node.js, Express.js, JavaScript, REST API.
+**Tech Stack:** Node.js, Express.js, JavaScript, REST APIs.
 
-[![Live API](https://img.shields.io/badge/Live%20API-Open-2EA44F?style=for-the-badge)](https://paytm-backend-zkbw.onrender.com)
+<a href="https://paytm-backend-zkbw.onrender.com">
+  <img src="https://img.shields.io/badge/Live%20API-Explore-2EA44F?style=for-the-badge" alt="Live Booking API" />
+</a>
 
 ### 4. JanSeva AI
 
 An AI-powered citizen grievance and constituency intelligence platform concept.
 
-- Focuses on citizen grievance management.
-- Uses structured insights to support issue analysis.
-- Designed around data-driven decision-making.
+**Key Focus Areas**
+- Citizen grievance management.
+- Data-driven issue analysis.
+- AI-powered insights.
+- Technology-driven public service solutions.
 
-**Areas:** Artificial Intelligence, Data Analytics, Full Stack Development.
+**Areas:** Artificial Intelligence, Data Analytics, Product Thinking and Full Stack Development.
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rehanashaik06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rehanashaik06&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehanashaik06&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehanashaik06&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most Used Languages" />
 
-<img src="https://streak-stats.demolab.com?user=Rehanashaik06&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rehanashaik06&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+<img src="https://streak-stats.demolab.com?user=Rehanashaik06&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Contribution Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rehanashaik06&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Contribution Activity" />
 
 </div>
 
 ---
 
-## 🏆 Recognition & Achievements
+## 🏆 Achievements & Recognition
 
 - 🏅 **Microsoft Learn Student Ambassador (MLSA)**.
 - 🎯 **SAP Hackfest 2026 Finalist**.
@@ -159,14 +179,15 @@ An AI-powered citizen grievance and constituency intelligence platform concept.
 
 ---
 
-## 🌱 Exploring Next
+## 🌱 My Learning Journey
 
-<img align="right" src="./Assets/output.gif" width="250" alt="Learning animation" />
+<img align="right" src="./Assets/output.gif" width="260" alt="Learning animation" />
 
 - Artificial Intelligence and Machine Learning.
-- Generative AI and Large Language Models.
+- Generative AI and intelligent applications.
 - Full Stack Application Development.
-- Data Structures and Algorithms.
+- Java and Data Structures & Algorithms.
+- Database Management and Backend Development.
 - Product Thinking and Innovation.
 - Building impactful technology solutions.
 
@@ -178,31 +199,42 @@ An AI-powered citizen grievance and constituency intelligence platform concept.
 
 <div align="center">
 
-<img src="./Assets/ask-me-about.svg" width="80%" alt="Ask me about my interests" />
+<img src="./Assets/ask-me-about.svg" width="90%" alt="Technologies and topics I am interested in" />
 
 </div>
 
 ---
 
+## 🤝 Let's Connect!
+
+I'm always excited to connect with developers, innovators, learners and technology enthusiasts.
+
+Whether it's collaborating on projects, discussing ideas, exploring AI or sharing knowledge, let's connect and grow together!
+
 <div align="center">
 
-### 🤝 Let's Connect and Build Something Amazing!
-
-I'm always open to learning, collaborating, and connecting with people who share a passion for technology and innovation.
-
 <a href="https://www.linkedin.com/in/shaikrehana6">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/rehana__shaik06?psln=MXJhdzJncjY5em81OQ==">
+
+<a href="https://www.instagram.com/rehana__shaik06">
   <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
+</a>
+
+<a href="mailto:rehanashaik767@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail" alt="Email" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rehanashaik06&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Rehanashaik06&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
-<img src="./Assets/output.gif" width="100%" alt="Thank you for visiting" />
+<br/><br/>
 
-**Thanks for visiting my profile! 💙**
+<img src="./Assets/output.gif" width="100%" alt="Thank you for visiting my profile" />
+
+### Thanks for visiting my profile! 💙
+
+**Keep Learning. Keep Building. Keep Growing.**
 
 </div>
