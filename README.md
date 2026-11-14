@@ -152,7 +152,7 @@ Building practical web applications and backend solutions while exploring modern
 
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rehanashaik06&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub contribution activity" />
+ 
 </div>
 
 ## Recognition
