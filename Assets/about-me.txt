@@ -1,0 +1,80 @@
+
+Output about-me.gif
+
+# Window & Aesthetic Configuration
+Set Shell "bash"
+Set WindowBar Colorful
+Set BorderRadius 12
+Set FontFamily "JetBrains Mono"
+Set FontSize 16
+Set Width 960
+Set Height 540
+Set Padding 30
+Set Margin 20
+Set MarginFill "#0D1117"
+Set Theme "GitHub Dark"
+Set TypingSpeed 45ms
+
+# Clear prompt & set clean custom shell indicator
+Hide
+Type "export PS1='\[\e[38;5;78m\]❯ \[\e[0m\]'"
+Enter
+Type "clear"
+Enter
+Show
+Sleep 400ms
+
+# Step 1: System Banner
+Type "./init_workspace.sh --user Rehanashaik06"
+Enter
+Sleep 400ms
+
+Hide
+Type `printf "\n\e[38;5;78m╭───────────────────────────────────────────────────────────╮\e[0m\n"`
+Enter
+Type `printf "\e[38;5;78m│\e[0m  \e[1;37mSHAIK REHANA\e[0m  \e[90m//\e[0m  \e[38;5;78m● ONLINE\e[0m                              \e[38;5;78m│\e[0m\n"`
+Enter
+Type `printf "\e[38;5;78m│\e[0m  \e[38;5;114mComputer Science | Data Science\e[0m                            \e[38;5;78m│\e[0m\n"`
+Enter
+Type `printf "\e[38;5;78m╰───────────────────────────────────────────────────────────╯\e[0m\n\n"`
+Enter
+Show
+Sleep 900ms
+
+# Step 2: Profile & Tech Stack
+Type "cat profile.config"
+Enter
+Sleep 350ms
+
+Hide
+Type `printf "\e[1;32m  PROFILE & EXPERIENCE\e[0m\n"`
+Enter
+Type `printf "  \e[38;5;78m▸ Role\e[0m          Full Stack Intern @ Brillon AI\n"`
+Enter
+Type `printf "  \e[38;5;78m▸ Community\e[0m    Microsoft Learn Student Ambassador\n"`
+Enter
+Type `printf "  \e[38;5;78m▸ Leadership\e[0m   Lead @ JIGNASA - The Learning Club\n\n"`
+Enter
+Type `printf "\e[1;32m  TECHNOLOGY & INTERESTS\e[0m\n"`
+Enter
+Type `printf "  \e[38;5;78m▸ Languages\e[0m    Java • Python • JavaScript\n"`
+Enter
+Type `printf "  \e[38;5;78m▸ Development\e[0m  React • Flask • REST APIs • SQL\n"`
+Enter
+Type `printf "  \e[38;5;78m▸ Focus\e[0m        AI • Machine Learning • Product Management\n\n"`
+Enter
+Show
+Sleep 1.1s
+
+# Step 3: Live Progress Bar Animation
+Type "deploy --goal 'build meaningful products'"
+Enter
+Sleep 300ms
+
+Hide
+Type `printf "  \e[90mLearning, building and innovating...\e[0m\n"`
+Enter
+Type `for i in {1..25}; do printf "\r  \e[38;5;78m"; printf '█%.0s' $(seq 1 $i); printf "\e[90m"; printf '░%.0s' $(seq $i 24); printf "\e[0m \e[1;37m$((i*4))%%\e[0m"; sleep 0.04; done; printf "\n\n  \e[1;32m✔ Ready to collaborate. Let's build!\e[0m\n"`
+Enter
+Show
+Sleep 3.5s
