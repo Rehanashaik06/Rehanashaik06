@@ -5,31 +5,31 @@
 
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#07101F"/>
-      <stop offset="0.52" stop-color="#111827"/>
-      <stop offset="1" stop-color="#0B1020"/>
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.52" stop-color="#161B22"/>
+      <stop offset="1" stop-color="#090D12"/>
     </linearGradient>
 
     <linearGradient id="line" x1="120" y1="0" x2="1080" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#38BDF8" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#38BDF8"/>
-      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+      <stop stop-color="#238636" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#3FB950"/>
+      <stop offset="1" stop-color="#56D364" stop-opacity="0"/>
     </linearGradient>
 
     <filter id="shadow" x="-20%" y="-30%" width="140%" height="170%">
-      <feDropShadow dx="0" dy="7" stdDeviation="8" flood-color="#020617" flood-opacity="0.7"/>
+      <feDropShadow dx="0" dy="7" stdDeviation="8" flood-color="#010409" flood-opacity="0.7"/>
     </filter>
   </defs>
 
   <rect width="1200" height="330" rx="18" fill="url(#bg)"/>
-  <rect x="1" y="1" width="1198" height="328" rx="17" stroke="#38BDF8" stroke-opacity="0.22" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="328" rx="17" stroke="#3FB950" stroke-opacity="0.28" stroke-width="2"/>
 
-  <text x="600" y="48" fill="#38BDF8" text-anchor="middle"
+  <text x="600" y="48" fill="#3FB950" text-anchor="middle"
         font-family="Consolas, monospace" font-size="14" font-weight="700">
     KNOWLEDGE EXCHANGE
   </text>
 
-  <text x="600" y="88" fill="#F8FAFC" text-anchor="middle"
+  <text x="600" y="88" fill="#F0F6FC" text-anchor="middle"
         font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="750">
     Ask Me About
   </text>
@@ -39,56 +39,56 @@
   <g filter="url(#shadow)" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650" text-anchor="middle">
 
     <g>
-      <rect x="112" y="139" width="156" height="52" rx="12" fill="#FFFFFF" fill-opacity="0.07" stroke="#38BDF8" stroke-opacity="0.55"/>
-      <text x="190" y="171" fill="#E2E8F0">Java</text>
+      <rect x="112" y="139" width="156" height="52" rx="12" fill="#FFFFFF" fill-opacity="0.055" stroke="#238636" stroke-opacity="0.8"/>
+      <text x="190" y="171" fill="#E6EDF3">Java</text>
     </g>
 
     <g>
-      <rect x="317" y="139" width="156" height="52" rx="12" fill="#FFFFFF" fill-opacity="0.07" stroke="#38BDF8" stroke-opacity="0.55"/>
-      <text x="395" y="171" fill="#E2E8F0">Python</text>
+      <rect x="317" y="139" width="156" height="52" rx="12" fill="#FFFFFF" fill-opacity="0.055" stroke="#238636" stroke-opacity="0.8"/>
+      <text x="395" y="171" fill="#E6EDF3">Python</text>
     </g>
 
     <g>
-      <rect x="522" y="139" width="156" height="52" rx="12" fill="#FFFFFF" fill-opacity="0.07" stroke="#67E8F9" stroke-opacity="0.55"/>
-      <text x="600" y="171" fill="#E2E8F0">JavaScript</text>
+      <rect x="522" y="139" width="156" height="52" rx="12" fill="#FFFFFF" fill-opacity="0.055" stroke="#3FB950" stroke-opacity="0.8"/>
+      <text x="600" y="171" fill="#E6EDF3">JavaScript</text>
     </g>
 
     <g>
-      <rect x="727" y="139" width="156" height="52" rx="12" fill="#FFFFFF" fill-opacity="0.07" stroke="#A78BFA" stroke-opacity="0.55"/>
-      <text x="805" y="171" fill="#E2E8F0">React</text>
+      <rect x="727" y="139" width="156" height="52" rx="12" fill="#FFFFFF" fill-opacity="0.055" stroke="#3FB950" stroke-opacity="0.8"/>
+      <text x="805" y="171" fill="#E6EDF3">React</text>
     </g>
 
     <g>
-      <rect x="932" y="139" width="156" height="52" rx="12" fill="#FFFFFF" fill-opacity="0.07" stroke="#A78BFA" stroke-opacity="0.55"/>
-      <text x="1010" y="171" fill="#E2E8F0">Flask</text>
+      <rect x="932" y="139" width="156" height="52" rx="12" fill="#FFFFFF" fill-opacity="0.055" stroke="#56D364" stroke-opacity="0.8"/>
+      <text x="1010" y="171" fill="#E6EDF3">Flask</text>
     </g>
 
     <g>
-      <rect x="112" y="220" width="156" height="52" rx="12" fill="#FFFFFF" fill-opacity="0.07" stroke="#38BDF8" stroke-opacity="0.55"/>
-      <text x="190" y="252" fill="#E2E8F0">SQL</text>
+      <rect x="112" y="220" width="156" height="52" rx="12" fill="#FFFFFF" fill-opacity="0.055" stroke="#238636" stroke-opacity="0.8"/>
+      <text x="190" y="252" fill="#E6EDF3">SQL</text>
     </g>
 
     <g>
-      <rect x="317" y="220" width="156" height="52" rx="12" fill="#FFFFFF" fill-opacity="0.07" stroke="#38BDF8" stroke-opacity="0.55"/>
-      <text x="395" y="252" fill="#E2E8F0">REST APIs</text>
+      <rect x="317" y="220" width="156" height="52" rx="12" fill="#FFFFFF" fill-opacity="0.055" stroke="#238636" stroke-opacity="0.8"/>
+      <text x="395" y="252" fill="#E6EDF3">REST APIs</text>
     </g>
 
     <g>
-      <rect x="522" y="220" width="156" height="52" rx="12" fill="#FFFFFF" fill-opacity="0.07" stroke="#67E8F9" stroke-opacity="0.55"/>
-      <text x="600" y="252" fill="#E2E8F0">Data Science</text>
+      <rect x="522" y="220" width="156" height="52" rx="12" fill="#FFFFFF" fill-opacity="0.055" stroke="#3FB950" stroke-opacity="0.8"/>
+      <text x="600" y="252" fill="#E6EDF3">Data Science</text>
     </g>
 
     <g>
-      <rect x="727" y="220" width="156" height="52" rx="12" fill="#FFFFFF" fill-opacity="0.07" stroke="#A78BFA" stroke-opacity="0.55"/>
-      <text x="805" y="252" fill="#E2E8F0">Machine Learning</text>
+      <rect x="727" y="220" width="156" height="52" rx="12" fill="#FFFFFF" fill-opacity="0.055" stroke="#3FB950" stroke-opacity="0.8"/>
+      <text x="805" y="252" fill="#E6EDF3">Machine Learning</text>
     </g>
 
     <g>
-      <rect x="932" y="220" width="156" height="52" rx="12" fill="#FFFFFF" fill-opacity="0.07" stroke="#A78BFA" stroke-opacity="0.55"/>
-      <text x="1010" y="252" fill="#E2E8F0">Product Management</text>
+      <rect x="932" y="220" width="156" height="52" rx="12" fill="#FFFFFF" fill-opacity="0.055" stroke="#56D364" stroke-opacity="0.8"/>
+      <text x="1010" y="252" fill="#E6EDF3">Product Management</text>
     </g>
   </g>
 
-  <circle cx="84" cy="76" r="4" fill="#38BDF8"/>
-  <circle cx="1116" cy="76" r="4" fill="#A78BFA"/>
+  <circle cx="84" cy="76" r="4" fill="#3FB950"/>
+  <circle cx="1116" cy="76" r="4" fill="#56D364"/>
 </svg>
