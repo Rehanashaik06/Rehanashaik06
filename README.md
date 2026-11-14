@@ -19,7 +19,7 @@
 
 ## About Me
 
-<img align="right" src="./Assets/developer.png.png" width="270" alt="Shaik Rehana - Developer illustration" />
+<img align="right" src="./Assets/shaik-rehana-developer.gif" width="270" alt="Shaik Rehana - Animated developer terminal" />
 
 **Full Stack Intern at Brillon AI** and a third-year Computer Science and Engineering (Data Science) undergraduate at **RGM College of Engineering and Technology (RGMCET)**.
 
@@ -39,7 +39,7 @@ As a technology enthusiast, I enjoy exploring new ideas and developing applicati
 
 ## Currently Building
 
-<img align="right" src="./Assets/working.webp" width="220" alt="Animated software development workspace" />
+<img align="right" src="./Assets/developer.png.png" width="270" alt="Shaik Rehana - Developer illustration" />
 
 - Full Stack applications and practical web solutions
 - AI-powered applications and intelligent systems
